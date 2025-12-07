@@ -1,0 +1,18 @@
+# VitePress build output
+.vitepress/cache
+.vitepress/dist
+
+# Dependencies (if you install them here)
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
