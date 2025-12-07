@@ -17,7 +17,7 @@ hero:
       link: /guide/quick-start
     - theme: alt
       text: View on GitHub
-      link: https://github.com/yourusername/mdeditor-starblaze
+      link: https://github.com/dvonanderson/mdeditor-starblaze
 
 features:
   - icon: 🚀
