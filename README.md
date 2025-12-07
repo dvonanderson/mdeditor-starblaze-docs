@@ -10,7 +10,7 @@ Start the documentation development server:
 npm run docs:dev
 ```
 
-Visit: http://localhost:5173/mdeditor-starblaze/
+Visit: `http://localhost:5173/mdeditor-starblaze/`
 
 ## Building
 

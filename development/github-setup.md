@@ -268,7 +268,7 @@ After completing this checklist:
    - Staging site (if applicable)
    - Branching strategy docs
 
-2. [ ] Share `BRANCHING_STRATEGY.md` with your team
+2. [ ] Share the branching strategy documentation with your team
 
 3. [ ] Add any team members to repository with appropriate permissions
 
@@ -281,7 +281,7 @@ After completing this checklist:
 
 ## Quick Links
 
-- [Branching Strategy Guide](./BRANCHING_STRATEGY.md)
+- [Branching Strategy Guide](./branching.md)
 - [GitHub Branch Protection Docs](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
 - [GitHub Actions Docs](https://docs.github.com/en/actions)
 - [Netlify Docs](https://docs.netlify.com/)

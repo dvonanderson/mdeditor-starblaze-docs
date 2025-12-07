@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-Visit: http://localhost:4200
+Visit: `http://localhost:4200`
 
 ## Making Commits
 

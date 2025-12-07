@@ -169,7 +169,7 @@ Configuration: `vite.config.mjs`
 # Start development server
 npm start
 
-# Visit http://localhost:4200
+# Visit at http://localhost:4200
 
 # Build for production
 npm run build

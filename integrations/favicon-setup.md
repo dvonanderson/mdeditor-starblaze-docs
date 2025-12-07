@@ -93,7 +93,7 @@ This matches the gradient used in the app's navigation bar.
    npm start
    ```
 
-2. **Visit http://localhost:4200**
+2. **Visit `http://localhost:4200`**
 
 3. **Check browser tab** - Should show the favicon
 
